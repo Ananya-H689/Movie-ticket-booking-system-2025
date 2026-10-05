@@ -70,7 +70,7 @@ React (UI)              ←  JSON responses            ←  Stored data
 ## 📁 Project Structure
 
 ```
-<repo-name>/
+Movie-ticket-booking-system-2025/
 ├── README.md                       # (this file)
 └── movie-ticket-booking-system/
     ├── README.md
@@ -111,8 +111,8 @@ React (UI)              ←  JSON responses            ←  Stored data
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>/movie-ticket-booking-system
+git clone https://github.com/Ananya-H689/Movie-ticket-booking-system-2025.git
+cd Movie-ticket-booking-system-2025/movie-ticket-booking-system
 ```
 
 ### 2. Create the database
@@ -233,4 +233,4 @@ JOIN users  u ON b.user_id  = u.user_id;
 
 ## 📜 License
 
-Released under the [MIT License](LICENSE).
+Released under the [MIT License](movie-ticket-booking-system/LICENSE).
